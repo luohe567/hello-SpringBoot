@@ -1,0 +1,3 @@
+druid:
+    filters:
+        conn: fun.xiebug.druid.ConnectLogFilter
